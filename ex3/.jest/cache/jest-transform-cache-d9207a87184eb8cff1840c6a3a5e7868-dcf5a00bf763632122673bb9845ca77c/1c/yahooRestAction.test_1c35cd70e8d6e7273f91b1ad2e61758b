@@ -1,0 +1,4 @@
+5653c0b2f91e6e111a2089270bf91cad
+test('yahooRestAction', function () {
+  expect(true).toBeTruthy();
+});

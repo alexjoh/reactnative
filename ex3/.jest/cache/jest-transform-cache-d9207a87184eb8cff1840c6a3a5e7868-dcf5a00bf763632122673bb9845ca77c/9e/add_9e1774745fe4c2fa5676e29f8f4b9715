@@ -1,0 +1,2 @@
+5053651f101bcd5f5ec719d6be949902
+"use strict";Object.defineProperty(exports, "__esModule", { value: true });exports.add = void 0;var add = function add(arg1, arg2) {return arg1 + arg2;};exports.add = add;

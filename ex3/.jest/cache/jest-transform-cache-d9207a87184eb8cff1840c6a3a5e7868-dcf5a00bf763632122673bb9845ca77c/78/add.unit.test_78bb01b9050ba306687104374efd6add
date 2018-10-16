@@ -1,0 +1,6 @@
+3c2099333df59796827f80caf9b107fb
+"use strict";var _add = require("./src/module1/add");
+
+test('add', function () {
+  expect((0, _add.add)(1, 2)).toBe(3);
+});
